@@ -3,10 +3,9 @@ import { Link } from "react-router-dom";
 import { CardWrap } from "./CardStyle";
 
 const Card = ({ game }) => {
-  console.log(game.image);
   return (
     <CardWrap>
-      <Link to="/page-du-jeux" game={game}>
+      <Link to="/page-du-jeux" state={{ game: game }}>
         <img className="gameImg" src={game.image} alt="Game Banner" />
         <h3>{game.name}</h3>
         <p>{game.rating}</p>
