@@ -6,7 +6,7 @@ const Card = ({ game }) => {
   console.log(game.image);
   return (
     <CardWrap>
-      <Link to="/panier">
+      <Link to="/page-du-jeux" game={game}>
         <img className="gameImg" src={game.image} alt="Game Banner" />
         <h3>{game.name}</h3>
         <p>{game.rating}</p>
