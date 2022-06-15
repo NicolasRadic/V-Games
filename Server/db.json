@@ -1,0 +1,221 @@
+{
+  "games": [
+    {
+      "id": 1,
+      "name": "The Last of Us Part II",
+      "release": "19/06/2020",
+      "developer": "Naughty Dog",
+      "publisher": ["Sony Interactive Entertainment"],
+      "rating": 92,
+      "genre": ["Adventure", "Shooter"],
+      "Platforms": ["PlayStation 4", "PlayStation 5"],
+      "synopsis": "Set 5 years after the events of The Last of Us, we see the return of Joel and Ellie. Driven by hatred, Ellie sets out for Seattle to serve justice. However, she begins to wonder what justice really means.",
+      "image": "images/The Last of Us Part II.png"
+    },
+    {
+      "name": "Uncharted 4: A Thief's End - Remastered",
+      "release": "28/01/2022 ",
+      "developer": "Naughty Dog",
+      "publisher": ["Sony Interactive Entertainment"],
+      "rating": 92,
+      "genre": ["Adventure", "Shooter"],
+      "Platforms": ["PlayStation 4", "PlayStation 5, PC (Microsoft Windows)"],
+      "synopsis": "Several years after his last adventure, retired fortune hunter, Nathan Drake, is forced back into the world of thieves. With the stakes much more personal, Drake embarks on a globe-trotting journey in pursuit of a historical conspiracy behind a fabled pirate treasure. His greatest adventure will test his physical limits, his resolve, and ultimately what he's willing to sacrifice to save the ones he loves.",
+      "image": "images/Uncharted 4 A Thief End.png",
+      "id": 2
+    },
+    {
+      "name": "Elden Ring",
+      "release": "25/02/2022 ",
+      "developer": "Naughty Dog",
+      "publisher": ["Bandai Namco Entertainment"],
+      "rating": 96,
+      "genre": ["Role-playing (RPG)"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S"
+      ],
+      "synopsis": "Elden Ring is a fantasy, action and open world game with RPG elements such as stats, weapons and spells. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+      "image": "images/Elden Ring.png",
+      "id": 3
+    },
+    {
+      "name": "Battlefield 2042",
+      "release": "19/11/2021",
+      "developer": "EA Digital Illusions CE",
+      "publisher": ["Electronic Arts"],
+      "rating": 62,
+      "genre": ["Adventure", "Shooter"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S"
+      ],
+      "synopsis": "Battlefield 2042 marks the return to the iconic all-out warfare of the franchise. Adapt and overcome dynamically-changing battlegrounds with the help of your squad and a cutting-edge arsenal. With support for 128 players, prepare for unprecedented scale on vast environments. Take on massive experiences, from updated multiplayer modes like Conquest and Breakthrough to the all-new Hazard Zone.",
+      "image": "images/Battlefield 2042.png",
+      "id": 4
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "release": "17/09/2013",
+      "developer": "Rockstar North",
+      "publisher": ["Rockstar Games", "Take-Two Interactive"],
+      "rating": 90,
+      "genre": ["Adventure", "Shooter"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "Xbox 360",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "PlayStation 3",
+        "Xbox Series X|S"
+      ],
+      "synopsis": "Grand Theft Auto V is a vast open world game set in Los Santos, a sprawling sun-soaked metropolis struggling to stay afloat in an era of economic uncertainty and cheap reality TV. The game blends storytelling and gameplay in new ways as players repeatedly jump in and out of the lives of the game’s three lead characters, playing all sides of the game’s interwoven story.",
+      "image": "images/Grand Theft Auto V.png",
+      "id": 5
+    },
+    {
+      "name": "Call of Duty: Black Ops II",
+      "release": "12/11/2012",
+      "developer": "Treyarch",
+      "publisher": ["Activision", "Square Enix"],
+      "rating": 73,
+      "genre": ["Shooter"],
+      "Platforms": [
+        "Wii U",
+        "Xbox 360",
+        "PC (Microsoft Windows)",
+        "PlayStation 3"
+      ],
+      "synopsis": "Black Ops II is the first game in the Call of Duty franchise to feature future warfare technology and the first to present branching storylines driven by player choice as well as selecting weapons before starting story mode missions.",
+      "image": "images/Call of Duty Black Ops II.png",
+      "id": 6
+    },
+    {
+      "name": "Ratchet & Clank: Rift Apart",
+      "release": "11/06/2021",
+      "developer": "Insomniac Games",
+      "publisher": ["Sony Interactive Entertainment"],
+      "rating": 91,
+      "genre": ["Adventure", "Platform", "Shooter"],
+      "Platforms": ["PlayStation 5"],
+      "synopsis": "Go dimension-hopping with Ratchet and Clank as they take on an evil emperor from another reality. Jump between action-packed worlds and beyond at mind-blowing speeds, complete with dazzling visuals and an insane arsenal.",
+      "image": "images/Ratchet & Clank Rift Apart.png",
+      "id": 7
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "release": "03/03/2017",
+      "developer": "Nintendo",
+      "publisher": ["Nintendo"],
+      "rating": 94,
+      "genre": ["Adventure", "Role-playing (RPG)"],
+      "Platforms": ["Wii U", "Nintendo Switch"],
+      "synopsis": "In this 3D open-world entry in the Zelda series, Link is awakened from a deep slumber without his past memories in the post-apocalyptic Kingdom of Hyrule, and sets off on a journey to defeat the ancient evil Calamity Ganon. Link treks, climbs and glides through fields, forests and mountain ranges while meeting and helping friendly folk and defeating enemies in order to gather up the strength to face Ganon.",
+      "image": "images/The Legend of Zelda Breath of the Wild.png",
+      "id": 8
+    },
+    {
+      "name": "Ark: Survival Evolved",
+      "release": "27/08/2017",
+      "developer": "Studio Wildcard",
+      "publisher": ["Snail Games", "USASnail Games", "Studio Wildcard"],
+      "rating": 66,
+      "genre": [
+        "Adventure",
+        "Indie",
+        "Role-playing (RPG)",
+        "Shooter",
+        "Simulator"
+      ],
+      "Platforms": [
+        "Android",
+        "Xbox One",
+        "PlayStation 4",
+        "Linux",
+        "Mac",
+        "iOS",
+        "PC (Microsoft Windows)",
+        "Nintendo Switch",
+        "Google Stadia"
+      ],
+      "synopsis": "Ark: Survival Evolved takes on the survival genre with a unique blend of emergent multiplayer cooperation and competition. Players awake naked and starving on the beach of a mysterious island among a herd of other confused humans. On ARK, they must then hunt, harvest, craft, research technology, and build shelters to protect against scorching days, freezing nights, volatile weather systems, dangerous wildlife, and potential enemies. Use cunning strategy and tactics to tame and ride the many dinosaurs and other primeval creatures roaming the dynamic, persistent ecosystems across land, sea, air, and even underground. Build your character’s strengths and gain items, skills, and pet creatures using in-depth role-playing systems. Start a tribe with hundreds of other players to survive and dominate competing tribes...and ultimately discover the ARK’s true purpose.",
+      "image": "images/Ark Survival Evolved.png",
+      "id": 9
+    },
+    {
+      "name": "V Rising",
+      "release": "17/03/2022",
+      "developer": "Stunlock Studios",
+      "publisher": ["Stunlock Studios"],
+      "rating": 78,
+      "genre": ["Adventure"],
+      "Platforms": ["PC (Microsoft Windows)"],
+      "synopsis": "Awaken as a vampire. Hunt for blood in nearby settlements to regain your strength and evade the scorching sun to survive. Raise your castle and thrive in an ever-changing open world full of mystery. Gain allies online and conquer the land of the living.",
+      "image": "images/V Rising.png",
+      "id": 10
+    },
+    {
+      "name": "FIFA 22",
+      "release": "30/09/2021",
+      "developer": "EA Vancouver",
+      "publisher": ["EA Sports"],
+      "rating": 78,
+      "genre": ["Simulator", "Sport"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S",
+        "Google Stadia"
+      ],
+      "synopsis": "Powered by Football, FIFA 22 brings the game even closer to the real thing with fundamental gameplay advances and a new season of innovation across every mode. Play with 17,000+ players, over 700 teams in 90+ stadiums and more than 30 leagues from all over the globe.",
+      "image": "images/FIFA 22.png",
+      "id": 11
+    },
+    {
+      "name": "Sniper Elite 5",
+      "release": "26/05/2022",
+      "developer": "Rebellion",
+      "publisher": ["Rebellion"],
+      "rating": 81,
+      "genre": ["Adventure", "Shooter"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S"
+      ],
+      "synopsis": "The latest instalment in the award-winning series, Sniper Elite 5 offers unparalleled sniping, tactical third-person combat and an enhanced kill cam. Fight your way across the most immersive maps yet, with many real-world locations captured in stunning detail, and an improved traversal system that lets you explore more of them than ever before. France, 1944 – As part of a covert US Rangers operation to weaken the Atlantikwall fortifications along the coast of Brittany, elite marksman Karl Fairburne makes contact with the French Resistance. Soon they uncover a secret Nazi project that threatens to end the war before the Allies can even invade Europe: Operation Kraken.",
+      "image": "images/Sniper Elite 5.png",
+      "id": 12
+    },
+    {
+      "name": "HITMAN 3",
+      "release": "20/01/2021",
+      "developer": "IO Interactive",
+      "publisher": ["IO Interactive"],
+      "rating": 85,
+      "genre": ["Adventure", "Shooter", "Tactical"],
+      "Platforms": [
+        "Xbox One",
+        "PlayStation 4",
+        "PlayStation 5",
+        "PC (Microsoft Windows)",
+        "Xbox Series X|S",
+        "Google Stadia"
+      ],
+      "synopsis": "Hitman 3 is the dramatic conclusion to the World of Assassination trilogy. Become Agent 47, a legendary assassin and use creativity and improvisation to execute the most ingenious and spectacular eliminations, in sprawling sandbox locations all around the globe.",
+      "image": "images/HITMAN 3.png",
+      "id": 13
+    }
+  ]
+}
