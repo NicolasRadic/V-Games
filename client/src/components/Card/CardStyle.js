@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const CardWrap = styled.div`
   width: 180px;
-  height: 260px;
+  height: 250px;
   background-color: #efefed;
   display: flex;
   flex-direction: column;
@@ -21,12 +21,11 @@ export const CardWrap = styled.div`
   }
 
   .gameImg {
-    height: 200px;
-    width: 150px;
+    height: 180px;
+    width: 180px;
     background-color: lightblue;
     align-self: center;
     border-radius: 20px;
-    margin-top: 15px;
   }
   h3 {
     margin: 0;
@@ -35,8 +34,10 @@ export const CardWrap = styled.div`
     width: 175px;
     overflow: hidden;
     text-overflow: ellipsis;
+    margin-top: 5px;
   }
   p {
-    margin: 0;
+    margin-top: 7px;
+    margin-bottom: 0;
   }
 `;

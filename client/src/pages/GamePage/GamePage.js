@@ -10,6 +10,7 @@ const GamePage = () => {
     <GamePageWrap>
       <Header />
       <h2>{game.name}</h2>
+      <img src={game.background_image} alt="Game Banner" />
     </GamePageWrap>
   );
 };

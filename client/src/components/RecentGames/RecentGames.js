@@ -5,18 +5,21 @@ import { RecentGamesWrap } from "./RecentGamesStyle";
 
 const BestGames = () => {
   const [gamesData, setGamesData] = useState([]);
-
+  const ApiKey = process.env.REACT_APP_RAWG_API_KEY;
   useEffect(() => {
     axios
-      .get("http://localhost:3000/games")
-      .then((res) => setGamesData(res.data));
-  }, []);
+      .get(`https://api.rawg.io/api/games?key=${ApiKey}&page_size=12`)
+      .then((res) => {
+        setGamesData(res.data.results);
+        console.log(res.data.results);
+      });
+  }, [ApiKey]);
 
   return (
     <RecentGamesWrap>
       <h2>Jeux récent</h2>
       <div className="recentGame">
-        {gamesData.slice(0, 12).map((game) => (
+        {gamesData.map((game) => (
           <Card key={game.id} game={game} />
         ))}
       </div>
