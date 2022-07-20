@@ -4,6 +4,7 @@ export const BannerWrap = styled.div`
   background: grey;
   padding: 50px 0 25px 15px;
   color: white;
+
   h2 {
     margin: 0;
     font-size: 20px;

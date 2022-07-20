@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 export const RecentGamesWrap = styled.div`
   text-align: center;
-  background-color: #f2f2f2;
+  background-color: #dddbdb;
 
   h2 {
     margin: 0;
@@ -14,5 +14,6 @@ export const RecentGamesWrap = styled.div`
     flex-wrap: wrap;
     justify-content: center;
     gap: 12px;
+    padding-bottom: 20px;
   }
 `;

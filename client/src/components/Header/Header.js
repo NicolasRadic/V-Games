@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+
 import { HeaderWrap } from "./HeaderStyle";
 
 const Header = () => {
@@ -12,10 +13,16 @@ const Header = () => {
           <li>Accueil</li>
         </NavLink>
         <NavLink
-          to="/panier"
+          to="../../Cart/panier"
           className={(nav) => (nav.isActive ? "nav-active" : "")}
         >
           <li>Panier</li>
+        </NavLink>
+        <NavLink
+          to="/liste-de-souhaits"
+          className={(nav) => (nav.isActive ? "nav-active" : "")}
+        >
+          <li>Souhaits</li>
         </NavLink>
       </ul>
     </HeaderWrap>

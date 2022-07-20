@@ -7,7 +7,7 @@ const Banner = () => {
     <BannerWrap>
       <h2>Game Name</h2>
       <button>
-        <Link to="/panier">Acheter</Link>
+        <Link to="/Cart/panier">Acheter</Link>
       </button>
       <p>60 €</p>
     </BannerWrap>
